@@ -10,19 +10,19 @@ The main goal is to improve coding skills, develop algorithmic thinking, and pre
 
 ## Platforms Covered
 
-### HackerRank
-- Practicing programming fundamentals
-- Improving coding skills in different languages
-- Solving beginner to intermediate-level challenges
+### 🟥 Project Euler
+- Solving mathematical and algorithmic challenges
+- Developing analytical thinking and optimization skills
 
-### LeetCode
+### 🟧 LeetCode
 - Practicing Data Structures and Algorithms
 - Solving coding interview problems
 - Improving problem-solving efficiency
 
-### Project Euler
-- Solving mathematical and algorithmic challenges
-- Developing analytical thinking and optimization skills
+### 🟨 HackerRank
+- Practicing programming fundamentals
+- Improving coding skills in different languages
+- Solving beginner to intermediate-level challenges
 
 ## Languages Used
 
