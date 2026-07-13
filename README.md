@@ -1,7 +1,3 @@
-<p align="center">
-  &emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Octave-Dark.svg" width="45" height="45"></a>&emsp;</p>
-  <br><br>
 # Problem Solving
 
 A collection of programming problem-solving solutions, algorithms, and coding practice from HackerRank, LeetCode, and Project Euler.
