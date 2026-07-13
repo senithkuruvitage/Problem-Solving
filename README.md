@@ -24,10 +24,3 @@ The main goal is to improve coding skills, develop algorithmic thinking, and pre
 - Improving coding skills in different languages
 - Solving beginner to intermediate-level challenges
 
-### Languages Used
-
-- C
-- C++
-- Python
-- Java
-- SQL
